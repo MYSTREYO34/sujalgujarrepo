@@ -1,4 +1,7 @@
 # sujalgujarrepo
+
 This is my first Repo
-<br>
+
+<!-- <br> //cd -change directory(folder) -->
+
 Author - Sujal gujar
